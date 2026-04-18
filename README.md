@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HostelHub
 
 A full-stack hostel management web application built to digitize day-to-day hostel operations for students and wardens. HostelHub provides role-based dashboards, complaint tracking, mess billing, and a private student community space in one centralized platform.
@@ -236,3 +237,6 @@ Make sure:
 - Admin panel for room allocation
 - Notification center
 - Deployment to Vercel + Railway/Render
+=======
+# hostelhub-fullstack
+>>>>>>> 673fdcff622ca6f859159799fcd300794c9de27b
