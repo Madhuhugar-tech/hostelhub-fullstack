@@ -2,7 +2,7 @@
 
 A modern full-stack hostel management platform designed to streamline student and warden operations with real-world features like complaint tracking, billing, and a private community system.
 
----
+![video alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/e334b8609c7819d8176846dfa9ba03988fb24a0b/freecompress-Screen%20Recording%202026-04-19%20101556.mp4)
 
 ## 🚀 Features
 
