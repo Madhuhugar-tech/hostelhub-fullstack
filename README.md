@@ -16,7 +16,7 @@ A modern full-stack hostel management platform designed to streamline student an
   
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/b9f9f435aaa5a85ef2adcfc9ac06f83aaa12bb77/Screenshot%202026-04-25%20103248.png)
 
-![image alt]()
+![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/2a5e8aabe2db5210faad10697a5fdde637418d21/Screenshot%202026-04-25%20103342.png)
 
 ![image alt]()
 
