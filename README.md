@@ -2,6 +2,7 @@
 
 A modern full-stack hostel management platform designed to streamline student and warden operations with real-world features like complaint tracking, billing, and a private community system.
 
+# 🔐 Login Page
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/38deb99700fc1ded2872579f19ff0f83fe5e3638/Screenshot%202026-04-25%20102257.png)
 
 ## 🚀 Features
@@ -13,6 +14,8 @@ A modern full-stack hostel management platform designed to streamline student an
 * View and pay mess bills
 * Access private hostel community
 * Post messages (with anonymous option)
+
+# 🎓 Student Dashboard
   
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/b9f9f435aaa5a85ef2adcfc9ac06f83aaa12bb77/Screenshot%202026-04-25%20103248.png)
 
@@ -29,11 +32,13 @@ A modern full-stack hostel management platform designed to streamline student an
 * View dashboard analytics
 * Manage billing for students
 
+# 📊 Warden Dashboard
+
 ![image al](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/e662d2281deaa1522b6f3f2d816fcccb790c0a42/Screenshot%202026-04-25%20103514.png)
 
 ![image al](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/90a3c498c0aa8d024ad38b77c697683e69598c3e/Screenshot%202026-04-25%20103541.png)
 
-![image al]()
+![image al](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/5bab098bf3d78d5e3a686d665c1ddfada67a158b/Screenshot%202026-04-25%20103600.png)
 
 ---
 
@@ -57,35 +62,6 @@ A modern full-stack hostel management platform designed to streamline student an
 
 * JWT (JSON Web Tokens)
 * bcryptjs
-
----
-### 📸 Screenshots
-
-### 🔐 Login Page
-![Login](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/login.png)
-
-### 🎓 Student Dashboard
-![Student Dashboard](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/student-dashboard.png)
-
-### 🛠 Student Issues
-![Student Issues](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/student-complaints.png)
-
-### 💬 Student Community
-![Student Community](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/student-community.png)
-
-### 💳 Student Bills
-![Student Bills](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/student-bills.png)
-
-### 📊 Warden Dashboard
-![Warden Dashboard](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/warden-dashboard.png)
-
-### 📋 Warden Complaints
-![Warden Complaints](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/warden-complaints.png)
-
-### 💰 Warden Billing
-![Warden Billing](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/warden-billing.png)
-
----
 
 ## 📂 Project Structure
 
