@@ -20,7 +20,7 @@ A modern full-stack hostel management platform designed to streamline student an
 
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/a35e5118c146361febf2b228c517bf3127aef940/Screenshot%202026-04-25%20103400.png)
 
-![image alt]()
+![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/879f1a1997204bd80fca2f8eb3d516bd1d233813/Screenshot%202026-04-25%20103422.png)
 
 ### 👩‍💼 Warden
 
