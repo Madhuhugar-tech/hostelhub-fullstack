@@ -45,46 +45,31 @@ A modern full-stack hostel management platform designed to streamline student an
 * bcryptjs
 
 ---
-
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/login.png)
-
----
+![Login](screenshots/login.png)
 
 ### 🎓 Student Dashboard
-![Student Dashboard](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/student-dashboard.png)
-
----
+![Student Dashboard](screenshots/student-dashboard.png)
 
 ### 🛠 Student Issues
-![Student Issues](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/student-complaints.png)
-
----
+![Student Issues](screenshots/student-complaints.png)
 
 ### 💬 Student Community
-![Student Community](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/student-community.png)
-
----
+![Student Community](screenshots/student-community.png)
 
 ### 💳 Student Bills
-![Student Bills](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/student-bills.png)
-
----
+![Student Bills](screenshots/student-bills.png)
 
 ### 📊 Warden Dashboard
-![Warden Dashboard](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/warden-dashboard.png)
-
----
+![Warden Dashboard](screenshots/warden-dashboard.png)
 
 ### 📋 Warden Complaints
-![Warden Complaints](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/warden-complaints.png)
-
----
+![Warden Complaints](screenshots/warden-complaints.png)
 
 ### 💰 Warden Billing
-![Warden Billing](https://raw.githubusercontent.com/Madhuhugar-tech/hostelhub-fullstack/main/screenshots/warden-billing.png)
+![Warden Billing](screenshots/warden-billing.png)
 
 ---
 
