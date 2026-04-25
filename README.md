@@ -14,7 +14,7 @@ A modern full-stack hostel management platform designed to streamline student an
 * Access private hostel community
 * Post messages (with anonymous option)
   
-![image alt]()
+![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/b9f9f435aaa5a85ef2adcfc9ac06f83aaa12bb77/Screenshot%202026-04-25%20103248.png)
 
 ![image alt]()
 
