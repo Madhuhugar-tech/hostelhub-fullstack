@@ -18,8 +18,6 @@ A modern full-stack hostel management platform designed to streamline student an
 
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/2a5e8aabe2db5210faad10697a5fdde637418d21/Screenshot%202026-04-25%20103342.png)
 
-![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/a35e5118c146361febf2b228c517bf3127aef940/Screenshot%202026-04-25%20103400.png)
-
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/879f1a1997204bd80fca2f8eb3d516bd1d233813/Screenshot%202026-04-25%20103422.png)
 
 ![image alt](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/6af494dff2341a93f2413c6f33ac3d650a3c2b62/Screenshot%202026-04-25%20103439.png)
@@ -30,6 +28,12 @@ A modern full-stack hostel management platform designed to streamline student an
 * Update complaint statuses
 * View dashboard analytics
 * Manage billing for students
+
+![image al](https://github.com/Madhuhugar-tech/hostelhub-fullstack/blob/e662d2281deaa1522b6f3f2d816fcccb790c0a42/Screenshot%202026-04-25%20103514.png)
+
+![image al]()
+
+![image al]()
 
 ---
 
